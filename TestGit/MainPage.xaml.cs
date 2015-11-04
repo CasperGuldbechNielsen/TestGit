@@ -26,5 +26,15 @@ namespace TestGit
         {
             this.InitializeComponent();
         }
+
+        /// <summary>
+        ///     I do nothing lolololol
+        /// 
+        /// </summary>
+        public void DoNothing()
+        {
+            
+            
+        }
     }
 }
